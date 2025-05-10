@@ -7,16 +7,14 @@
 <br/>
 
 # 0. Getting Started (시작하기)
-```bash
-$ npm start
-```
-[서비스 링크](https://club-project-one.vercel.app/)
+
+[서비스 링크](https://todak-ten.vercel.app/)
 
 <br/>
 <br/>
 
 # 1. Project Overview (프로젝트 개요)
-- 프로젝트 이름: 모여봐요 동아리숲!
+- 프로젝트 이름: Todak
 - 프로젝트 설명: 전국 대학 동아리 일정관리 및 홍보 커뮤니티
 
 <br/>
