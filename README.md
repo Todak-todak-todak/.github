@@ -23,7 +23,7 @@ Todak은 국내 근로자 뿐만 아니라 외국인 노동자의 산재 피해 
 | 이동규 | 신유승 | 김나연 | 이승준 |
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="김성헌" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="강재준" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="이나경" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="진채정" width="150"> |
-| PL | FE | FE | FE |
+| BE | AI | FE | FE |
 | [GitHub]() | [GitHub](https://github.com/sungheonkim) | [GitHub](https://github.com/lee-nakyung) | [GitHub](https://github.com/ahcgnoej) |
 
 <br/>
@@ -57,16 +57,7 @@ Todak은 국내 근로자 뿐만 아니라 외국인 노동자의 산재 피해 
 <br/>
 <br/>
 
-# 4. Tasks & Responsibilities (작업 및 역할 분담)
-|  |  |  |
-|-----------------|-----------------|-----------------|
-| 김성헌    |  <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="김성헌" width="100"> | <ul><li>팀장</li><li>백엔드</li><li>     |
-| 강재준   |  <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="강재준" width="100">| <ul><li>AI</li> |
-| 이나경   |  <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="이나경" width="100">    |<ul><li>프론트엔드</li>  |
-| 진채정    |  <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="진채정" width="100">    | <ul><li>프론트엔드</li>    |
 
-<br/>
-<br/>
 
 # 5. Technology Stack (기술 스택)
 ## 5.1 Language
