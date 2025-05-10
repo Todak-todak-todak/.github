@@ -14,8 +14,7 @@
 <br/>
 
 # 1. Project Overview (프로젝트 개요)
-- 프로젝트 이름: Todak
-- 프로젝트 설명: 전국 대학 동아리 일정관리 및 홍보 커뮤니티
+Todak은 국내 근로자 뿐만 아니라 외국인 노동자의 산재 피해 대응부터 예방, 의료기관 연계, 요양급여 신청 지원까지 전 과정을 다국어로 지원하는 AI 기반 챗봇 서비스이다. 해당 시스템은 웹앱 형태로 구현되어 있으며, 사용자 인터페이스에서 자연어로 질문을 입력하면 GPT 기반 AI가 유사 판례를 검색하고, 산재 인정 가능성과 데이터에 기반한 유사 사례를 안내한다. 
 
 <br/>
 <br/>
@@ -23,9 +22,9 @@
 # 2. Team Members (팀원 및 팀 소개)
 | 이동규 | 신유승 | 김나연 | 이승준 |
 |:------:|:------:|:------:|:------:|
-| <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="이동규" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="신유승" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="김나연" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이승준" width="150"> |
+| <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="김성헌" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="강재준" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="이나경" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="진채정" width="150"> |
 | PL | FE | FE | FE |
-| [GitHub](https://github.com/LDK1009) | [GitHub](https://github.com/SinYusi) | [GitHub](https://github.com/nay3on) | [GitHub](https://github.com/conconcc) |
+| [GitHub]() | [GitHub](https://github.com/sungheonkim) | [GitHub](https://github.com/lee-nakyung) | [GitHub](https://github.com/ahcgnoej) |
 
 <br/>
 <br/>
@@ -61,10 +60,10 @@
 # 4. Tasks & Responsibilities (작업 및 역할 분담)
 |  |  |  |
 |-----------------|-----------------|-----------------|
-| 이동규    |  <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="이동규" width="100"> | <ul><li>프로젝트 계획 및 관리</li><li>팀 리딩 및 커뮤니케이션</li><li>커스텀훅 개발</li></ul>     |
-| 신유승   |  <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="신유승" width="100">| <ul><li>메인 페이지 개발</li><li>동아리 만들기 페이지 개발</li><li>커스텀훅 개발</li></ul> |
-| 김나연   |  <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="김나연" width="100">    |<ul><li>홈 페이지 개발</li><li>로그인 페이지 개발</li><li>동아리 찾기 페이지 개발</li><li>동아리 프로필 페이지 개발</li><li>커스텀훅 개발</li></ul>  |
-| 이승준    |  <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이승준" width="100">    | <ul><li>회원가입 페이지 개발</li><li>마이 프로필 페이지 개발</li><li>커스텀훅 개발</li></ul>    |
+| 김성헌    |  <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="김성헌" width="100"> | <ul><li>팀장</li><li>백엔드</li><li>     |
+| 강재준   |  <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="강재준" width="100">| <ul><li>AI</li> |
+| 이나경   |  <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="이나경" width="100">    |<ul><li>프론트엔드</li>  |
+| 진채정    |  <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="진채정" width="100">    | <ul><li>프론트엔드</li>    |
 
 <br/>
 <br/>
