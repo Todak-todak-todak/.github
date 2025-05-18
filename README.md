@@ -20,7 +20,7 @@ Todak은 국내 근로자 뿐만 아니라 외국인 노동자의 산재 피해 
 <br/>
 
 # 2. Team Members (팀원 및 팀 소개)
-| 이동규 | 신유승 | 김나연 | 이승준 |
+| 김성헌 | 강재준 | 이나경 | 진채정 |
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="김성헌" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="강재준" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="이나경" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="진채정" width="150"> |
 | BE | AI | FE | FE |
