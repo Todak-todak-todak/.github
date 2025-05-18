@@ -22,7 +22,7 @@ Todak은 국내 근로자 뿐만 아니라 외국인 노동자의 산재 피해 
 # 2. Team Members (팀원 및 팀 소개)
 | 김성헌 | 강재준 | 이나경 | 진채정 |
 |:------:|:------:|:------:|:------:|
-| ![Image](https://github.com/user-attachments/assets/e084c2ff-1b31-4cf6-8a4b-f8b3c09a9639) alt="김성헌" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="강재준" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="이나경" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="진채정" width="150"> |
+| <img src="https://github.com/user-attachments/assets/e084c2ff-1b31-4cf6-8a4b-f8b3c09a9639" alt="김성헌" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="강재준" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="이나경" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="진채정" width="150"> |
 | BE | AI | FE | FE |
 | [GitHub](https://github.com/sungheonkim) | [GitHub](https://github.com/orgs/Todak-todak-todak/people/BBZJUN) | [GitHub](https://github.com/lee-nakyung) | [GitHub](https://github.com/ahcgnoej) |
 
