@@ -29,7 +29,7 @@ Todak은 국내 근로자 뿐만 아니라 외국인 노동자의 산재 피해 
 <br/>
 <br/>
 
-## 3. Development Period(개발 기간)
+# 3. Development Period(개발 기간)
 
 2025.03.15 ~ 2025.03.22
 
@@ -56,7 +56,7 @@ Todak은 국내 근로자 뿐만 아니라 외국인 노동자의 산재 피해 
 - 사업계획서 작성
 - 고용노동부 공공데이터 공모전 제출
 
-# 4. Development Environment and Technology Stack (개발 환경 및 기술 스택)
+# 4. Technology Stack (기술 스택)
 
 - Front End :
 - Back End : Java17, Spring boot(3.4.3), Spring Security, Spring JPA, JWT,OAuth2, MYSQL, Gradle, JUnit5
