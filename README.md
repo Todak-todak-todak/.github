@@ -29,6 +29,54 @@ Todak은 국내 근로자 뿐만 아니라 외국인 노동자의 산재 피해 
 <br/>
 <br/>
 
+## 3. Development Period(개발 기간)
+
+2025.03.15 ~ 2025.03.22
+
+- 아이디어 회의
+- 개발 기획
+- UI 설계
+
+2025.03.23 ~ 2025.04.05
+
+- 시스템 아키텍처 설계
+- 데이터베이스 스키마 설계
+- UI 설계 및 수정
+- 기능 명세서 작성
+- API 명세서 작성
+
+2025.04.06 ~ 2025.05.05
+
+- 백엔드,프론트엔드,AI 개발
+- API 연동 및 디버깅
+- CI/CD 설정 및 배포
+
+2024.05.06 ~ 2024.05.14
+
+- 사업계획서 작성
+- 고용노동부 공공데이터 공모전 제출
+
+# 4. Development Environment and Technology Stack (개발 환경 및 기술 스택)
+
+- Front End :
+- Back End : Java17, Spring boot(3.4.3), Spring Security, Spring JPA, JWT,OAuth2, MYSQL, Gradle, JUnit5
+- AI :
+- 형상 관리 : GitHub, Jira
+- 협업 툴 : Notion, Discord
+- CI/CD : GitHun Actions
+- 배포 : AWS EC2, Vercel
+- UI/UX : Figma
+
+# 4. Collaboration Process (협업 과정)
+
+## 🤝 협업 과정
+- 스크럼 방법론 기반 2주 스프린트 단위 개발, 데일리 스크럼 및 스프린트 리뷰/회고 진행
+
+## 🌿 브랜치 전략
+- `main`: 프로덕션 배포 브랜치
+- `dev`: 개발 통합 브랜치  
+- `feature`: 기능별 개발 브랜치
+
 # 3. Key Features (주요 기능)
 - **회원가입**:
   - 회원가입 시 DB에 유저정보가 등록됩니다.
