@@ -130,7 +130,11 @@ S
 
 # 5. Database ERD
 
+![Image](https://github.com/user-attachments/assets/506764a6-0d0b-42c7-b025-0f36bd29fc22)
+
 # 6. Architecture Diagram
+
+![Image](https://github.com/user-attachments/assets/b501b47f-d96f-4a57-9adb-f8899003dfbf)
 
 # 7. Service Function(서비스 기능)
 
