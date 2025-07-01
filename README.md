@@ -1,6 +1,6 @@
 # .github
-<a href="https://club-project-one.vercel.app/" target="_blank">
-<img src="https://github.com/user-attachments/assets/daa622b9-7c69-4786-8db3-4996b7f140be" alt="배너" width="100%"/>
+<a href="https://todak-ten.vercel.app/" target="_blank">
+<img src="https://github.com/user-attachments/assets/8b91b4fc-80e6-4118-ad90-150ac649eca3" alt="배너" width="100%"/>
 </a>
 
 <br/>
