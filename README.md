@@ -22,7 +22,7 @@ Todak은 국내 근로자 뿐만 아니라 외국인 노동자의 산재 피해 
 # 2. Team Members (팀원 및 팀 소개)
 | 김성헌 | 강재준 | 이나경 | 진채정 |
 |:------:|:------:|:------:|:------:|
-| <img src="https://github.com/user-attachments/assets/e084c2ff-1b31-4cf6-8a4b-f8b3c09a9639" alt="김성헌" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="강재준" width="150"> | <img src="https://github.com/user-attachments/assets/8c4174b2-3d14-4b59-ade2-d17b3bfe638c" alt="이나경" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="진채정" width="150"> |
+| <img src="https://github.com/user-attachments/assets/e084c2ff-1b31-4cf6-8a4b-f8b3c09a9639" alt="김성헌" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="강재준" width="150"> | <img src="https://github.com/user-attachments/assets/13e37ba9-06b3-42c4-9b13-8fb482680fb6" alt="이나경" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="진채정" width="150"> |
 | BE | AI | FE | FE |
 | [GitHub](https://github.com/sungheonkim) | [GitHub](https://github.com/orgs/Todak-todak-todak/people/BBZJUN) | [GitHub](https://github.com/lee-nakyung) | [GitHub](https://github.com/ahcgnoej) |
 
@@ -151,22 +151,22 @@ S
   - 종사하는 산업군에서 가장 많이 발생하는 사고유발 원인, 부상 TOP3를 시각적인 도표로 제공 
 
 - **산재 챗봇**:
-  <img width="1100" alt="Image" src="https://github.com/user-attachments/assets/2ce312a4-a549-4d9d-800d-cacbc52f91bd" />
+  <img width="1101" alt="Image" src="https://github.com/user-attachments/assets/e715ff6c-00d9-4b46-a75f-bbb3fa87b850" />
   - 사용자의 산재 처리 여부 질문을 처리하는 챗봇AI
   - 사용자의 상황 요약과 산재 인정 확률 제공
   - 사용자의 상황과 비슷한 사례 제공
   - 공통적인 질문에 대한 정보 제공
 
 - **분석 결과**:
-  <img width="1100" alt="Image" src="https://github.com/user-attachments/assets/2e1b635d-7694-415f-b5fd-2dfd34ba3abe" />
+  <img width="1102" alt="Image" src="https://github.com/user-attachments/assets/784834cd-1b1d-41fd-8a27-2cda302e5a29" />   
   - 산재 처리 가능성 확률 제공 및 산재 신청 서류 작성으로 이동하는 버튼
   - 사용자 위치 기반 인근 산재 지정 병원 안내(카카오 Map 활용하여 시작적인 정보 제공)
   - 유형별 산재 보험 계산기 제공
   - 같은 산업군의 비슷한 사례 정보 제공
 
 - **전자 산재 신청**:
-  <img width="1100" alt="Image" src="https://github.com/user-attachments/assets/53d57e6c-9ec1-4665-b9fc-c8408f604398" />
-  <img width="1100" alt="Image" src="https://github.com/user-attachments/assets/08524c22-83f7-47f4-866d-a611867775ef" />
+  <img width="1104" alt="Image" src="https://github.com/user-attachments/assets/3ee741d7-a8d0-47a8-bc8e-26d8b2d13f3f" />
+  <img width="1099" alt="Image" src="https://github.com/user-attachments/assets/cb531ec2-63ec-4b08-827d-6ce8224e37a6" />
   - 개인정보 수집, 제공과 대리인 제공 동의
   - 산재 신청에 필요한 정보 입력
   - 산재 신청 목록 및 처리 여부 제공
