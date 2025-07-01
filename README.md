@@ -1,4 +1,4 @@
-# .github
+# 국내 및 외국인 노동자를 위한 통합형 산재 대응 플랫폼 Todak
 <a href="https://todak-ten.vercel.app/" target="_blank">
 <img src="https://github.com/user-attachments/assets/8b91b4fc-80e6-4118-ad90-150ac649eca3" alt="배너" width="100%"/>
 </a>
@@ -139,6 +139,7 @@ S
 # 7. Service Function(서비스 기능)
 
 - **회원가입**:
+  <img width="1102" alt="Image" src="https://github.com/user-attachments/assets/ef2fa9fd-848c-41fa-b37c-f6f42cba3038" />
   - 카카오 소셜 로그인 
   - 언어 선택으로 다국어 지원
   - 추가 정보 기입 후 최종 회원가입
