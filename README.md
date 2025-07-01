@@ -139,28 +139,34 @@ S
 # 7. Service Function(서비스 기능)
 
 - **회원가입**:
-  <img width="1102" alt="Image" src="https://github.com/user-attachments/assets/ef2fa9fd-848c-41fa-b37c-f6f42cba3038" />
+  <img width="1100" alt="Image" src="https://github.com/user-attachments/assets/ef2fa9fd-848c-41fa-b37c-f6f42cba3038" />
   - 카카오 소셜 로그인 
   - 언어 선택으로 다국어 지원
   - 추가 정보 기입 후 최종 회원가입
 
 - **홈 화면**:
+  <img width="1100" alt="Image" src="https://github.com/user-attachments/assets/4d4d0302-a698-4cce-922d-f0ef4ed06c82" />
+  <img width="1100" alt="Image" src="https://github.com/user-attachments/assets/64717268-0d48-4a33-a603-125e70f8be0d" />
   - 종사하는 산업군에 대한 주의사항, 안전교육, 의료기관, 상담, 신고 정보 제공
   - 종사하는 산업군에서 가장 많이 발생하는 사고유발 원인, 부상 TOP3를 시각적인 도표로 제공 
 
 - **산재 챗봇**:
+  <img width="1100" alt="Image" src="https://github.com/user-attachments/assets/2ce312a4-a549-4d9d-800d-cacbc52f91bd" />
   - 사용자의 산재 처리 여부 질문을 처리하는 챗봇AI
   - 사용자의 상황 요약과 산재 인정 확률 제공
   - 사용자의 상황과 비슷한 사례 제공
   - 공통적인 질문에 대한 정보 제공
 
 - **분석 결과**:
+  <img width="1100" alt="Image" src="https://github.com/user-attachments/assets/2e1b635d-7694-415f-b5fd-2dfd34ba3abe" />
   - 산재 처리 가능성 확률 제공 및 산재 신청 서류 작성으로 이동하는 버튼
   - 사용자 위치 기반 인근 산재 지정 병원 안내(카카오 Map 활용하여 시작적인 정보 제공)
   - 유형별 산재 보험 계산기 제공
   - 같은 산업군의 비슷한 사례 정보 제공
 
 - **전자 산재 신청**:
+  <img width="1100" alt="Image" src="https://github.com/user-attachments/assets/53d57e6c-9ec1-4665-b9fc-c8408f604398" />
+  <img width="1100" alt="Image" src="https://github.com/user-attachments/assets/08524c22-83f7-47f4-866d-a611867775ef" />
   - 개인정보 수집, 제공과 대리인 제공 동의
   - 산재 신청에 필요한 정보 입력
   - 산재 신청 목록 및 처리 여부 제공
