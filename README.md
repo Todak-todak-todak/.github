@@ -60,7 +60,7 @@ Todak은 국내 근로자 뿐만 아니라 외국인 노동자의 산재 피해 
 
 - Front End : React, TypeScript, TailwindCSS, Tanstack-Query, Zustand, React-Hook-Form, Zod
 - Back End : Java17, Spring boot(3.4.3), Spring Security, Spring JPA, JWT,OAuth2, MYSQL, Gradle, JUnit5
-- AI :
+- AI : Python, Flask, OpenAI API, LangChain, FAISS, Gunicorn, dotenv
 - 형상 관리 : GitHub, Jira
 - 협업 툴 : Notion, Discord
 - CI/CD : GitHun Actions
